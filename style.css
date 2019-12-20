@@ -5,3 +5,7 @@
 .hidden {
   display: none;
 }
+
+.js-err {
+  color: red;
+}
